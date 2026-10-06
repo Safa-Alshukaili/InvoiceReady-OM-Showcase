@@ -5,9 +5,7 @@ Oman get their invoice data ready for the national e-invoicing mandate (Fawtara)
 
 Designed and built by **Safa Alshukaili** · 2025–2026
 
-> 🔒 **This repository is a showcase only.** InvoiceReady OM is a commercial product; its source
-> code, database design and documentation are private. A live demo or a technical walkthrough is
-> available to employers on request.
+
 
 ---
 
