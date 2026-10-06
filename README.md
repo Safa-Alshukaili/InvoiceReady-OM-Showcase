@@ -100,10 +100,7 @@ does not connect to the Tax Authority; submission is done through an accredited 
 بصيغة UBL 2.1، وأرشيف مشفّر يكشف أي تلاعب، ولوحة جاهزية لكل منشأة، ومحفظة لمكاتب المحاسبة،
 وربط قابل للاستبدال مع مزوّد خدمة معتمد.
 
-> 🔒 هذا المستودع للعرض فقط. المشروع تجاري، والشيفرة المصدرية وتصميم قاعدة البيانات والتوثيق
-> خاصة وغير منشورة. يمكن ترتيب عرض مباشر لأصحاب العمل عند الطلب.
-
----
+> 🔒 هذا المستودع للعرض فقط.
 
 © 2025–2026 Safa Alshukaili. All rights reserved. See [LICENSE](LICENSE).
 The screenshots, text and the InvoiceReady OM name may not be copied or reused without written
